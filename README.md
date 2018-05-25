@@ -1,2 +1,1 @@
-#mervealici.github.io
-personalwebsite
+# site
