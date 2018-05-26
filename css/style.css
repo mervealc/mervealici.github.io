@@ -6,8 +6,8 @@
 .dog2{ width:100% ; max-width:200px; }
 .book{ width:100% ; max-width:300px; }
 .ank1{ width:100% ; max-width:200px; }
-.ank2{ width:100% ; max-width:200px; }
-.hamam{ width:100% ; max-width:200px; }
+.ank2{ width:100% ; max-width:200px; max-height="150" }
+.hamam{ width:100% ; max-width:200px; max-height="50" }
 .anıt{ width:100% ; max-width:200px; }
 .kale{ width:100% ; max-width:200px; }
 .koru{ width:100% ; max-width:200px; }
