@@ -1,15 +1,15 @@
-.foto{ width:100% ; max-width:200px; }
-.cat{ width:100% ; max-width:200px; }
-.camp{ width:100% ; max-width:200px; }
-.trek{ width:100% ; max-width:200px; }
-.dog1{ width:100% ; max-width:200px; }
-.dog2{ width:100% ; max-width:200px; }
-.book{ width:100% ; max-width:300px; }
-.ank1{ width:100% ; max width:200px; }
-.ank2{ width:100% ; max width:200px; }
-.hamam{ width:100% ; max width:200px; }
-.anıt{ width:100% ; max width:200px; }
-.kale{ width:100% ; max width:200px; }
-.koru{ width:100% ; max width:200px; }
-.beypazarı{ width:100% ; max width:150px; }
-.simit{ width:100% ; max width:150px; }
+.foto{ width:100% ; max-width:200px;max-height:auto; }
+.cat{ width:100% ; max-width:200px; max-height:auto;}
+.camp{ width:100% ; max-width:200px;max-height:auto; }
+.trek{ width:100% ; max-width:200px;max-height:auto; }
+.dog1{ width:100% ; max-width:200px;max-height:auto; }
+.dog2{ width:100% ; max-width:200px;max-height:auto; }
+.book{ width:100% ; max-width:300px;max-height:auto; }
+.ank1{ width:100% ; max-width:200px;max-height:auto; }
+.ank2{ width:100% ; max-width:200px;max-height:auto; }
+.hamam{ width:100% ; max-width:200px;max-height:auto; }
+.anıt{ width:100% ; max-width:200px; max-height:auto;}
+.kale{ width:100% ; max-width:200px; max-height:auto;}
+.koru{ width:100% ; max-width:200px;max-height:auto; }
+.beypazarı{ width:100% ; max-width:150px; max-height:auto;}
+.simit{ width:100% ; max-width:150px;max-height:auto; }
